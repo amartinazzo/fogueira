@@ -1,8 +1,8 @@
 ---
 layout: default
+title: Fogueira
 ---
 
-# Intro
 
 Fogueiras sempre tiveram um papel significativo na vivência ao ar livre, mas é essencial equilibrar essa prática com a preservação ambiental. As fogueiras podem causar impactos duradouros no solo e na vegetação, além de contribuir para incêndios florestais. Este princípio sugere uma reflexão sobre quando e como utilizar fogueiras de forma consciente.
 

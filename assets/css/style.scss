@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.btn,
+.main-content > hr:last-of-type,
+.site-footer,
+.site-footer-credits {
+  display: none;
+}
