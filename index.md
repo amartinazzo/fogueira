@@ -88,8 +88,6 @@ Quando não há anéis de fogo pré-existentes e a fogueira é realmente necess�
 
 ## Fogueira de Montículo (Mound Fire)
 
-![Fogueira de montículo](https://campingstovecookout.com/wp-content/uploads/2017/08/Mound-Fire-How-to-Make-Leave-No-Trace-Fires.jpg)
-
 Técnica que isola o calor do fogo em relação ao solo por meio de um montículo de terra mineral.
 
 **Materiais necessários:** uma pequena pá de jardim, um saco para transportar terra e uma cobertura para o solo (pano, papel alumínio grosso ou saco de lixo resistente).
@@ -105,8 +103,6 @@ Técnica que isola o calor do fogo em relação ao solo por meio de um montícul
 Esta técnica funciona sobre diversas superfícies: rocha exposta, serapilheira, húmus ou grama.
 
 ## Fogueira de Panela / Bandeja (Fire Pan)
-
-![Fogueira de panela](https://lnt.org/wp-content/uploads/2025/02/fire-pan-on-beach.jpg)
 
 Utiliza uma bandeja ou panela de metal para conter o fogo, impedindo contato com o solo.
 
